@@ -16,5 +16,5 @@ RecycleConnect is an application designed to connect users who want to recycle u
 
 - **Frontend**: iOS | Android
 - **Backend**: Node.js with Express
-- **Database**: MongoDB / MySQL
+- **Database**: MongoDB 
 - **Authentication**: JWT (JSON Web Tokens)
